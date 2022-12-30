@@ -2,8 +2,26 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
+.lightBox {
+  border: 2px solid black;
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+
 .lightbulb {
   border: 2px solid black;
   width: 200px;
   height: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
 }
